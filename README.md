@@ -20,6 +20,13 @@ mvn clean install
 mvn spring-boot:run
 ```
 
+## Tests
+
+```bash
+mvn test
+mvn clean verify
+```
+
 ## Configuration
 
 ```yaml
